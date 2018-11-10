@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <title>Bootstrap Example</title>
   <meta charset="utf-8">
@@ -8,17 +8,15 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-<body>
-
 <div class="container">
-  <div class="jumbotron">
+  
     <h1>Daphne Adriana Huapaya Montes</h1>
     <p>Tengo 18 años , soy estudiante de ingeniería civil de la Universidad de Ingeniería y Tecnología. Mis pasatiempos son leer , dibujar y pintar, pero suelo hacer estos al aire libre porque es mucho mas relajante y me puedo concentrar con mayor facilidad.Mi animal preferido es el gato, porque son atractivos físicamente además presentar un carácter libre y despreocupado.</p> 
     <img src="https://i.pinimg.com/originals/19/2a/6d/192a6d3ca3f0271a3504fb7e2bbd207d.jpg" style="width:900px;height:500px;">
   </div>
   <div class="row">
-    <div class="col-sm-4">
-      <h3>Me encantan las innovaciones </h3>
+   
+      <p> <h3>Me encantan las innovaciones </h3> </p>
       <p>También en mi ratos libres suelo investigar sobre innovaciones es cualquier ámbito y contexto. Sobretodo me encanta ver videos que explican sobre ello. Aquí les comparto algunos canales que comparten historias y hechos innovadores.</p>
       <p><style>
 table, th, td {
@@ -29,7 +27,7 @@ th, td {
     padding: 15px;
 }
 </style>
-</head>
+
 <body>
 
 <h2>Canales de Youtube</h2>
@@ -72,7 +70,7 @@ th, td {
  
       
     </div>
-    <div class="col-sm-4">
+   
       <h3>Mis libros preferidos</h3>
       <p>Aunque mis gustos literarios son ampliamente abiertos suelo preferir los de género de terror.Aquí les comparto las obras de este genéro que recomiendo leer.</p>
       <p>1.Edgar Allan Poe:cuentos completos</p>
@@ -86,9 +84,8 @@ th, td {
       <p><img src="https://imagessl3.casadellibro.com/a/l/t0/93/9788497593793.jpg" alt="HTML5 Icon" style="width:100px;height:128px;"></p>
       <p>¿Quién o qué mutila y mata a los niños de un pequeño pueblo norteamericano? ¿Por qué llega cíclicamente el horror a Derry en forma de un payaso siniestro que va sembrando la destrucción a su paso? Esto es lo que se proponen averiguar los protagonistas de esta novela. Tras veintisiete años de tranquilidad y lejanía una antigua promesa infantil les hace volver al lugar en el que vivieron su infancia y juventud como una terrible pesadilla. Regresan a Derry para enfrentarse con su pasado y enterrar definitivamente la amenaza que los amargó durante su niñez. Saben que pueden morir, pero son conscientes de que no conocerán la paz hasta que aquella cosa sea destruida para siempre. It es una de las novelas más ambiciosas de Stephen King, donde ha logrado perfeccionar de un modo muy personal las claves del género de terror.¿Lograran vencerlo?¿Qué es “eso”?</p>
       
-    </div>
-    <div class="col-sm-4">
-      <h3>Música</h3>        
+  
+      <p<<h3>Música</h3>   </p>     
       <p>Al igual que los libros soy muy abierta en cuanto gustos musicales.Pero en este caso resaltare la música clásica.</p>
       <p>
       <style>
@@ -100,10 +97,10 @@ th, td {
     padding: 15px;
 }
 </style>
-</head>
-<body>
 
-<h2>Lista de música clásica</h2>
+<body>
+<p<
+<h2>Lista de música clásica</h2> </p>
 <p>Espero que les guste tanto como a mi.</p>
 
 <table style="width:100%">
@@ -129,9 +126,14 @@ th, td {
   </tr>
 </table>
     
-  </div>
+
 </div>
 
 </body>
 
+
+
+
+
+</body>
 </html>
